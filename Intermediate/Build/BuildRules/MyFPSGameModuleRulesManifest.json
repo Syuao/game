@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\syuao\\project_files\\game\\Source\\MyFPSGame\\MyFPSGame.Build.cs",
+		"D:\\syuao\\project_files\\game\\Source\\MyFPSGame.Target.cs",
+		"D:\\syuao\\project_files\\game\\Source\\MyFPSGameEditor.Target.cs"
+	],
+	"EngineVersion": "5.7.2"
+}
